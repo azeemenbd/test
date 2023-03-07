@@ -65843,7 +65843,7 @@ transition:none;
 @media (max-width: 1198px) {
 
     .megamenu {
-        / display: none; /
+       /*display: none; */
         /* transform: unset;
         transition: unset; */
     }
