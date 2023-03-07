@@ -65830,3 +65830,12 @@ html[dir=rtl] .card-carousel {
 .megamenu__content{
 transition:none;
 }
+
+#site_header.megamenu-open-mobile .navbar__mobile-toggle::after {
+    transform: rotate(0deg);
+}
+
+#site_header.megamenu-open-mobile .navbar__mobile-toggle::before {
+    top: 0;
+    transform: rotate(0deg);
+}
