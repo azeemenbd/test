@@ -65826,3 +65826,7 @@ html[dir=rtl] .card-carousel {
         height:590px
     }
 }
+
+.megamenu__content{
+transition:none;
+}
